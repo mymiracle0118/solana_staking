@@ -1,0 +1,15 @@
+{
+	"token" : "jmsApix74A2RUJyw5XRCCL61MiCRP538yypQmemnCZd",
+	"staking_period" : 5,
+	"withdraw_period" : 3,
+	"start_time" : 1646496000,
+	"soul_amount" : 5,
+	"win_percent" : 80,
+	"fail_percent" : 15,
+	"burn_percent" : 5,
+	"token_unit" : 1000000,
+	"stake_collection" : "HH",
+	"token_halos" : "Halos",
+	"token_horns" : "Horns",
+	"period" : 60
+}
